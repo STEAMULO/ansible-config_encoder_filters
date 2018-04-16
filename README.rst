@@ -1284,4 +1284,6 @@ GPLv3
 Author
 ------
 
-Jiri Tyr
+Steamulo - www.steamulo.com
+
+Forked from [Jiri Tyr](https://github.com/jtyr)
